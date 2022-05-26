@@ -1,0 +1,14 @@
+{
+  "name": "@lyoon-tcs/tiny",
+  "version": "0.2.0",
+  "description": "A function that outputs a string",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "lyoon"
+  ],
+  "scripts": {
+    "publish-it": "npm publish --access public"
+  }
+}
