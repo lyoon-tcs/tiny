@@ -1,6 +1,6 @@
 {
   "name": "@lyoon-tcs/tiny",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A function that outputs a string",
   "keywords": [
     "tiny",
